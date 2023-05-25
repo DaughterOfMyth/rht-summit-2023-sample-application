@@ -3,7 +3,7 @@ data:
   images.json: |-
     [
       "https://i.imgflip.com/7jqevq.jpg",
-      "https://i.imgflip.com/7jqekl.jpg",
+      "https://miro.medium.com/v2/resize:fit:1200/0*ZjYSm_q36J4KChdn",
       "https://i.imgflip.com/7jmwjs.jpg"
     ]
 kind: ConfigMap
